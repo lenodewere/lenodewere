@@ -344,9 +344,8 @@ The goal is simple:
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lenodewere/lenodewere/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+  <img src="https://raw.githubusercontent.com/lenodewere/lenodewere/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
-
 
 ## GitHub Journey
 
