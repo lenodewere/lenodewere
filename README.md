@@ -1,42 +1,193 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6e5cff,100:0ff4c6&height=200&section=header&text=Lenox%20Were&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20profile&descAlignY=58&descSize=18&descColor=d0ccff)
+Absolutely. Since this is your **GitHub profile README**, I’d make it look like a proper developer portfolio rather than just a generic “Hi, I’m a developer” page.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6E5CFF&center=true&vCenter=true&width=600&lines=Hi+Visitor%F0%9F%91%8B!;My+Name+is+Lenox+Were;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+Kenya;Nice+to+Meet+You)](https://github.com/lenodewere)
+Here’s a complete version tailored around **Lenox / Lenox’s Creations**, web development, ICT, design, and poetry.
 
----
+# 👋 Hey, I'm Lenox
 
-### 📊 MY STATS
+### 💻 ICT Student | Web Developer | Designer | Poet
 
-[![Followers](https://img.shields.io/github/followers/lenodewere?color=red&style=flat-square)](https://github.com/lenodewere)
-[![Profile Views](https://komarev.com/ghpvc/?username=lenodewere&color=6e5cff&style=flat-square&label=Profile+Views)](https://github.com/lenodewere)
+Welcome to my corner of GitHub. I'm **Lenox**, an ICT student and creative developer passionate about turning ideas into functional, beautiful, and meaningful digital experiences.
 
-![GitHub Stats](https://github-readme-stats-eight-navy.vercel.app/api?username=lenodewere&show_icons=true&theme=radical&hide_border=true&count_private=true)
+I build websites, experiment with new technologies, create digital designs, and write poetry that gives a voice to the things we don't always say out loud.
 
-![Top Languages](https://github-readme-stats-eight-navy.vercel.app/api/top-langs/?username=lenodewere&theme=radical&layout=compact&hide_border=true&langs_count=8)
-
-![Streak Stats](https://github-readme-streak-stats-salesp07.vercel.app/?user=lenodewere&count_private=true&theme=radical&border_radius=10&hide_border=true)
+> **Code builds the experience. Creativity gives it a soul.**
 
 ---
 
-### 🏆 GITHUB TROPHIES
+## 🚀 About Me
 
-![GitHub Trophies](https://gh-profile-trophy.vercel.app/?username=lenodewere&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6)
+* 🎓 ICT student passionate about technology and software development
+* 💻 Building responsive and user-friendly websites
+* 🎨 Interested in graphic design and digital creativity
+* 📱 Exploring modern web technologies and application development
+* ✍️ Poet and creative writer behind **Lenox's Creations**
+* 🌱 Currently improving my development and design skills
+* 🔭 Working on personal projects and digital experiences
+* ⚡ I believe good design should be both beautiful and useful
 
 ---
 
-### 🌍 CONTRIBUTION ACTIVITY
+## 🛠️ Technologies & Tools
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lenodewere&bg_color=0d0d0d&color=9e4c98&line=6e5cff&point=0ff4c6&area=true&hide_border=true)](https://github.com/lenodewere)
+### 💻 Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 🎨 Design & Creative
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge\&logo=xampp\&logoColor=white)
 
 ---
 
-### 🔗 LET'S CONNECT
+## 🌐 What I Do
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@lenox_creations)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/simply_.lennie)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/lenodewere)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@simply_.lennie)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/message/3ATM6TJVFIVIC1)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lenodewere)
-[![Email](https://img.shields.io/badge/Email-lenoxochieng903@gmail.com-6e5cff?style=flat-square&logo=gmail&logoColor=white)](mailto:lenoxochieng903@gmail.com)
+### 💻 Web Development
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0ff4c6,100:6e5cff&height=120&section=footer&text=Nice%20to%20Meet%20You%20👋&fontSize=14&fontColor=d0ccff&fontAlignY=65)
+I create responsive websites with a focus on clean layouts, usability, performance, and modern design.
+
+### 🎨 Graphic Design
+
+I create visual content and digital designs for brands, businesses, and social media.
+
+### 📱 Social Media Management
+
+I help businesses build and maintain their digital presence through creative content and social media management.
+
+### ✍️ Poetry & Creative Writing
+
+Through **Lenox's Creations**, I write poetry and creative pieces centered around emotions, experiences, relationships, and the things left unsaid.
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Lenox's Creations
+
+My personal creative and professional portfolio showcasing my work in:
+
+* Web development
+* Graphic design
+* Social media management
+* Poetry
+* Creative writing
+
+**🌍 Portfolio:** [Visit My Portfolio](#)
+
+---
+
+### 📅 Appointment Booking System
+
+A web-based appointment management system designed to allow clients to book services while providing an administrative dashboard for managing appointments.
+
+**Built with:**
+
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
+
+---
+
+### 💼 Personal Portfolio
+
+A responsive personal portfolio website designed to showcase my skills, services, projects, and creative work.
+
+**Built with:**
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+I'm continuously expanding my skills and exploring:
+
+* 🌐 Modern web development
+* ⚙️ Backend development
+* 🗄️ Database management
+* 📱 Application development
+* 🔐 Web security
+* ☁️ Deployment and hosting
+* 🎨 UI/UX design
+* 🚀 Building real-world projects
+
+---
+
+## 🎯 My Goal
+
+My goal is simple:
+
+**Keep learning. Keep building. Keep creating.**
+
+I want to grow from an ICT student into a well-rounded developer capable of taking an idea from concept to a complete, working digital product.
+
+---
+
+## ✨ A Little More About Me
+
+```text
+💻 I write code
+🎨 I create designs
+✍️ I write poetry
+🌐 I build websites
+📚 I keep learning
+🚀 I turn ideas into projects
+```
+
+---
+
+## 📫 Let's Connect
+
+If you'd like to collaborate, discuss a project, or simply connect, feel free to reach out.
+
+* 🌐 **Portfolio:** [Lenox's Creations](#)
+* 💼 **GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+* 📧 **Email:** YOUR_EMAIL
+* 📱 **Instagram:** YOUR_INSTAGRAM
+* 🎵 **TikTok:** YOUR_TIKTOK
+
+---
+
+## 💙 Lenox's Creations
+
+> *"Some things are built with code. Others are written with emotion."*
+
+**© 2026 Lenox's Creations — All Rights Reserved.**
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
+
+<p align="center">
+  ⭐ If you find something interesting here, consider giving the repository a star.
+</p>
