@@ -273,27 +273,23 @@ Through Lenox's Creations, I explore:
 
 ## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lenodewere&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenodewere&layout=compact&hide_border=true&theme=tokyonight" height="180">
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lenodewere&show_icons=true&theme=default&hide_border=true&count_private=true" height="180"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenodewere&layout=compact&theme=default&hide_border=true" height="180"> </p>
 ---
 
 ## Contribution Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lenodewere&theme=tokyonight&hide_border=true">
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=lenodewere&theme=default&hide_border=true" alt="GitHub Streak"> </p>
 
 ---
 
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lenodewere/lenodewere/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lenodewere&theme=minimal&hide_border=true" alt="GitHub Contribution Graph">
 </p>
 
+##Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/lenodewere/lenodewere/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"> </p>
 ---
 
 ## GitHub Activity
