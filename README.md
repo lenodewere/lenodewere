@@ -1,205 +1,169 @@
-<!-- markdownlint-disable MD001 MD025 MD026 MD033 MD036 MD045 MD060 -->
 
-# 👋 Hey, I'm Lenox
+# Were Lenox
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0D6EFD&center=true&vCenter=true&width=700&lines=ICT+Student+%7C+Web+Developer;Creative+Designer+%7C+Poet;Building+Ideas+Into+Digital+Experiences;Code+%2B+Creativity+%3D+Lenox" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0D6EFD&center=true&vCenter=true&width=700&lines=ICT+Student+%7C+Web+Developer;Creative+Designer+%7C+Poet;Building+Ideas+Into+Digital+Experiences" alt="Typing SVG">
 </p>
 
 <p align="center">
   <a href="https://github.com/lenodewere">
-    <img src="https://img.shields.io/github/followers/lenodewere?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/lenodewere?label=Followers&style=for-the-badge&logo=github">
   </a>
   <a href="https://github.com/lenodewere?tab=repositories">
-    <img src="https://img.shields.io/github/stars/lenodewere?affiliations=OWNER&style=for-the-badge&logo=github" alt="GitHub Stars">
+    <img src="https://img.shields.io/github/stars/lenodewere?affiliations=OWNER&style=for-the-badge&logo=github">
   </a>
   <img src="https://komarev.com/ghpvc/?username=lenodewere&style=for-the-badge&color=0d6efd" alt="Profile Views">
 </p>
 
 ---
 
-## Who Am I?
+## About Me
 
-I'm **Were Lenox**, an ICT student, web developer, designer, and poet from Kenya.
+I'm Lenox, an ICT student, web developer, designer, and poet from Kenya.
 
-I enjoy taking ideas that exist only in someone's head and turning them into something people can actually **see, use, and experience**.
+I enjoy turning ideas into functional, useful, and visually appealing digital experiences.
 
-My interests sit somewhere between **technology and creativity**.
+My interests combine technology and creativity. I build websites, work with databases, explore backend development, create digital designs, and write poetry and creative pieces.
 
-One day I'm writing PHP and designing a database.
-
-The next, I'm designing a website.
-
-And sometimes I'm writing poetry about emotions thaewere never said out loud.
-
-That's the whole point.
-
-> **I don't just build websites. I build experiences.**
+> Code builds the experience. Creativity gives it a soul.
 
 ---
 
-## My Developer Journey
+## Developer Journey
 
-My journey into technology started with curiosity.
+I'm focused on developing practical skills through real-world projects.
 
-I wanted to understand how websites work, how applications communicate with databases, how systems are designed, and how an idea becomes an actual product.
-
-Now I'm working on real projects while continuously improving my skills.
-
-### Currently exploring:
+My current development path is:
 
 ```text
 Frontend Development
-        ↓
+        |
+        v
 Backend Development
-        ↓
+        |
+        v
 Database Systems
-        ↓
+        |
+        v
 Full-Stack Development
-        ↓
+        |
+        v
 Real-World Applications
-```
+````
 
-The goal?
-
-**Become the kind of developer who can build the whole thing.**
+My goal is to become a developer capable of taking an idea from concept to a complete working product.
 
 ---
 
-# Tech Stack
+## Technologies
 
-## Frontend
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js">
 </p>
 
- HTML5
- CSS3
- JavaScript
- Responsive Web Design
- UI Design
- Modern layouts
- Mobile-first development
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Web Design
+* UI Design
+* Mobile-first development
 
----
-
-## Backend
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=php">
 </p>
 
- PHP
- Form handling
- Authentication
- Sessions
- CRUD systems
- Backend logic
- Appointment systems
+* PHP
+* Form handling
+* Authentication
+* Sessions
+* CRUD systems
+* Backend logic
 
----
-
-## Databases
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql">
 </p>
 
- MySQL
- Database design
- Tables & relationships
- SQL queries
- Data management
- CRUD operations
+* MySQL
+* SQL
+* Database design
+* Tables and relationships
+* Data management
+* CRUD operations
 
----
-
-## Tools & Platforms
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma">
 </p>
 
-Also working with:
-
- XAMPP
- GitHub Pages
- Vercel
- Git
- VS Code
- Canva
- Figma
-
----
-
-# What I'm Building
-
-I'm not interested in building projects just to fill up a GitHub profile.
-
-I want to build **projects that solve actual problems.**
-
-### Portfolio Websites
-
-Responsive websites for individuals, creatives, and businesses.
-
-### Booking Systems
-
-Appointment and service-booking systems with backend management.
-
-### Student Applications
-
-Tools that make student life, resources, and information easier to manage.
-
-### Creative Platforms
-
-Digital spaces for poetry, writing, design, and other forms of creative expression.
-
-### Experimental Projects
-
-Small projects where I test new technologies, ideas, designs, and concepts.
+* Git
+* GitHub
+* VS Code
+* XAMPP
+* Canva
+* Figma
+* GitHub Pages
+* Vercel
 
 ---
 
-# Featured Work
+## What I Do
 
-## Lenox's Creations
+### Web Development
 
-**My personal creative & digital brand.**
+I build responsive websites with a focus on clean design, usability, performance, and accessibility.
 
-A space combining technology, design, social media, poetry, and creative writing.
+### Graphic Design
 
-### Services
+I create digital designs and visual content for personal brands, businesses, and social media.
 
- Web Development
- Graphic Design
- Social Media Management
- Poetry
- Script Writing
+### Social Media
 
-> **Creativity doesn't need permission. It needs somewhere to exist.**
+I work with digital content, social media management, branding, and online presence.
+
+### Creative Writing
+
+Through Lenox's Creations, I write poetry, scripts, and creative pieces focused on emotions, experiences, relationships, and life.
 
 ---
 
-## Personal Portfolio
+## Featured Projects
 
-My portfolio website where I showcase:
+### Lenox's Creations
 
-* My skills
+My personal creative and professional brand combining:
+
+* Web development
+* Graphic design
+* Social media management
+* Poetry
+* Creative writing
+
+### Personal Portfolio
+
+A responsive portfolio website showcasing my:
+
+* Skills
 * Services
 * Projects
 * Creative work
 * Contact information
 
-**Tech:** HTML • CSS • JavaScript
+Built with:
 
----
+`HTML` `CSS` `JavaScript`
 
-## Appointment Management System
+### Appointment Management System
 
-A complete web-based appointment system designed for service-based businesses.
+A web-based appointment system designed for service-based businesses.
 
-### Features
+Features include:
 
 * Client appointment booking
 * Service selection
@@ -208,30 +172,15 @@ A complete web-based appointment system designed for service-based businesses.
 * Appointment status tracking
 * Database integration
 
-**Tech:** PHP • MySQL • HTML • CSS • JavaScript
+Built with:
+
+`PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
 ---
 
-# What I Know
+## Academic Background
 
-| Area                 | Skills                         |
-| -------------------- | ------------------------------ |
-|  Web               | HTML, CSS, JavaScript          |
-|  Backend           | PHP                            |
-|  Database          | MySQL, SQL                     |
-|  Design            | Canva, UI/UX                   |
-|  Tools             | Git, GitHub, VS Code, XAMPP    |
-|  Responsive Design | Mobile, Tablet & Desktop       |
-|  Systems           | Authentication, Sessions, CRUD |
-|  ICT               | System Analysis, ERD, DFD, MIS |
-
----
-
-# Academic Background
-
- **ICT — Level 6**
-
-Currently developing practical knowledge in:
+I'm currently studying ICT and developing practical knowledge in:
 
 * Software installation
 * System analysis and design
@@ -246,42 +195,40 @@ Currently developing practical knowledge in:
 
 ---
 
-# Currently Learning
+## Currently Learning
 
 ```text
-████████████████░░░░  Web Development
-███████████████░░░░░  PHP & Backend
-██████████████░░░░░░  MySQL & Databases
-████████████░░░░░░░░  JavaScript
-███████████░░░░░░░░░  UI/UX
-█████████░░░░░░░░░░░  Full-Stack Development
+Web Development
+PHP and Backend Development
+MySQL and Database Management
+JavaScript
+UI/UX Design
+Full-Stack Development
+Web Deployment
+Software Development
 ```
 
-I'm especially interested in moving toward:
+---
 
-**Frontend → Backend → Full Stack → Software Development**
+## 2026 Goals
+
+* Build more real-world projects
+* Improve JavaScript skills
+* Strengthen PHP knowledge
+* Master MySQL
+* Build full-stack applications
+* Learn modern frameworks
+* Improve UI/UX skills
+* Deploy more projects
+* Contribute to open-source projects
+* Build a strong developer portfolio
+* Turn more ideas into working products
 
 ---
 
-# 2026 Goals
+## Development Philosophy
 
-* [ ] Build more real-world projects
-* [ ] Improve JavaScript
-* [ ] Become stronger with PHP
-* [ ] Master MySQL
-* [ ] Build full-stack applications
-* [ ] Learn modern frameworks
-* [ ] Improve UI/UX skills
-* [ ] Deploy more projects
-* [ ] Contribute to open-source projects
-* [ ] Build a strong developer portfolio
-* [ ] Turn more ideas into working products
-
----
-
-# My Development Philosophy
-
-I believe the best way to learn development is to **build things**.
+I believe the best way to learn development is to build.
 
 Tutorials are useful.
 
@@ -289,25 +236,27 @@ Documentation is essential.
 
 Courses help.
 
-But eventually, you have to open the editor and start breaking things.
+But eventually, you have to open the editor and start building.
 
-Then fix them.
+Break things.
 
-Break them again.
+Fix them.
 
-Fix them better.
+Learn why they broke.
+
+Build again.
 
 That's where the real learning happens.
 
 ---
 
-# Beyond Code
+## Beyond Code
 
 Technology isn't the only thing I create.
 
 I'm also a poet and creative writer.
 
-Through **Lenox's Creations**, I explore:
+Through Lenox's Creations, I explore:
 
 * Love
 * Heartbreak
@@ -318,29 +267,28 @@ Through **Lenox's Creations**, I explore:
 * Human emotions
 * Things left unsaid
 
-### My creative philosophy:
-
-> **"Some emotions are too heavy for conversation, so I turn them into words."**
+> Some emotions are too heavy for conversation, so I turn them into words.
 
 ---
 
-# GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenodewere&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lenodewere&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenodewere&layout=compact&hide_border=true&theme=tokyonight" height="180">
 </p>
 
 ---
 
-# Contribution Streak
+## Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lenodewere&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lenodewere&theme=tokyonight&hide_border=true">
 </p>
 
 ---
 
-# My Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lenodewere/lenodewere/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
@@ -348,7 +296,7 @@ Through **Lenox's Creations**, I explore:
 
 ---
 
-# My GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lenodewere&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
@@ -356,102 +304,64 @@ Through **Lenox's Creations**, I explore:
 
 ---
 
-# Let's Build Something
-
-Have an idea?
-
-Need a website?
-
-Want to collaborate on a project?
-
-Interested in creative technology?
-
-**Let's talk.**
-
-I'm always interested in learning, experimenting, and building something new.
-
----
-
-# Connect With Me
+## Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/lenodewere">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-0D6EFD?style=for-the-badge&logo=google-chrome&logoColor=white">
-</a>
-
-<a href="YOUR_INSTAGRAM_URL">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="YOUR_TIKTOK_URL">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-</a>
-
+  <a href="https://github.com/lenodewere">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-0D6EFD?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  <a href="YOUR_INSTAGRAM_URL">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="YOUR_TIKTOK_URL">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+  </a>
 </p>
-
----
-
-# Random Developer Thought
-
-```text
-"Every expert was once a beginner
-who refused to stop building."
-```
 
 ---
 
 ## Fun Facts
 
 ```text
- Developer
- Designer
- Poet
- ICT Student
- Kenyan
- Powered by curiosity
- Always building something
- Probably debugging something
- Definitely wondering why it worked five minutes ago
+Developer
+Designer
+Poet
+ICT Student
+Kenyan
+Always learning
+Always building
+Always experimenting
 ```
 
 ---
 
-# The Lenox Stack
+## The Lenox Stack
 
 ```text
-             ┌─────────────────────┐
-             │       IDEAS         │
-             └──────────┬──────────┘
-                        ↓
-             ┌─────────────────────┐
-             │      CREATIVITY     │
-             └──────────┬──────────┘
-                        ↓
-             ┌─────────────────────┐
-             │        CODE         │
-             └──────────┬──────────┘
-                        ↓
-             ┌─────────────────────┐
-             │      DESIGN         │
-             └──────────┬──────────┘
-                        ↓
-             ┌─────────────────────┐
-             │      PRODUCT        │
-             └──────────┬──────────┘
-                        ↓
-             ┌─────────────────────┐
-             │      IMPACT         │
-             └─────────────────────┘
+             IDEAS
+               |
+               v
+          CREATIVITY
+               |
+               v
+              CODE
+               |
+               v
+             DESIGN
+               |
+               v
+            PRODUCT
+               |
+               v
+             IMPACT
 ```
 
 ---
 
-# Final Words
+## Final Words
 
 I started with curiosity.
 
@@ -459,26 +369,19 @@ I'm building with purpose.
 
 And I'm still learning every day.
 
-**This GitHub is a record of that journey.**
+This GitHub is a record of that journey.
 
-If you find something useful here, feel free to explore, fork it, learn from it, or build on it.
+If you find something useful here, explore it, learn from it, and build something of your own.
 
-And if something breaks...
-
-Well...
-
-**that's part of the development experience.**
+> Keep building. Keep learning. Keep creating.
 
 ---
 
 <p align="center">
-
-### Built with code, creativity & a little stubbornness.
-
-**© 2026 Lenox's Creations**
-
+  <b>Built with code, creativity and persistence.</b>
 </p>
 
 <p align="center">
-  <b> Keep building. Keep learning. Keep creating. ⭐</b>
+  © 2026 Lenox's Creations
 </p>
+
