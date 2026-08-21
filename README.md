@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://github.com/lenodewere">
-    <img src="https://img.shields.io/github/followers/lenodewere?label=Followers&style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/github/followers/lenodewere?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers">
   </a>
   <a href="https://github.com/lenodewere?tab=repositories">
-    <img src="https://img.shields.io/github/stars/lenodewere?affiliations=OWNER&style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/github/stars/lenodewere?affiliations=OWNER&style=for-the-badge&logo=github" alt="GitHub Stars">
   </a>
   <img src="https://komarev.com/ghpvc/?username=lenodewere&style=for-the-badge&color=0d6efd" alt="Profile Views">
 </p>
@@ -95,10 +95,10 @@ My goal is to become a developer capable of taking an idea from concept to a com
 * Data Management
 * CRUD Operations
 
-### Tools
+### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development Tools">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" alt="Development Tools">
 </p>
 
 * Git
@@ -118,13 +118,17 @@ My goal is to become a developer capable of taking an idea from concept to a com
 
 I build responsive websites with a focus on clean design, usability, performance, and accessibility.
 
+### Backend Development
+
+I develop backend systems using PHP and MySQL, including forms, authentication, sessions, CRUD operations, and database-driven applications.
+
 ### Graphic Design
 
 I create digital designs and visual content for personal brands, businesses, and social media.
 
 ### Social Media
 
-I work with digital content, social media management, branding, and online presence.
+I work with digital content, branding, social media management, and online presence.
 
 ### Creative Writing
 
@@ -270,11 +274,53 @@ Through Lenox's Creations, I explore:
 
 ---
 
+## What I'm Building
+
+I'm focused on turning ideas into practical digital products.
+
+```text
+        IDEAS
+          |
+          v
+   +--------------+
+   |   RESEARCH   |
+   +--------------+
+          |
+          v
+   +--------------+
+   |    DESIGN    |
+   +--------------+
+          |
+          v
+   +--------------+
+   | DEVELOPMENT  |
+   +--------------+
+          |
+          v
+   +--------------+
+   |    TESTING   |
+   +--------------+
+          |
+          v
+   +--------------+
+   |   DEPLOYMENT |
+   +--------------+
+          |
+          v
+        IMPACT
+```
+
+The goal is simple:
+
+**Build things that are useful, meaningful, and actually work.**
+
+---
+
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lenodewere&show_icons=true&theme=default&hide_border=true&count_private=true" height="180" alt="GitHub Statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenodewere&layout=compact&theme=default&hide_border=true" height="180" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=lenodewere&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github" height="180" alt="GitHub Statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenodewere&layout=compact&theme=default&hide_border=true&langs_count=8" height="180" alt="Top Languages">
 </p>
 
 ---
@@ -303,36 +349,35 @@ Through Lenox's Creations, I explore:
 
 ---
 
-## Connect With Me
+## GitHub Journey
 
-<p align="center">
-  <a href="https://github.com/lenodewere">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-0D6EFD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="YOUR_INSTAGRAM_URL">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="YOUR_TIKTOK_URL">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-  </a>
-</p>
+This profile represents more than repositories.
 
----
+It represents the process of learning, experimenting, failing, fixing, and building.
 
-## Fun Facts
+Every project adds something new.
+
+Every bug teaches something.
+
+Every commit is another step forward.
 
 ```text
-Developer
-Designer
-Poet
-ICT Student
-Kenyan
-Always Learning
-Always Building
-Always Experimenting
+Learn
+  |
+  v
+Build
+  |
+  v
+Break
+  |
+  v
+Fix
+  |
+  v
+Improve
+  |
+  v
+Repeat
 ```
 
 ---
@@ -356,6 +401,21 @@ Always Experimenting
                |
                v
              IMPACT
+```
+
+---
+
+## Fun Facts
+
+```text
+Developer
+Designer
+Poet
+ICT Student
+Kenyan
+Always Learning
+Always Building
+Always Experimenting
 ```
 
 ---
