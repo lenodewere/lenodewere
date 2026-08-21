@@ -327,8 +327,7 @@ Through **Lenox's Creations**, I explore:
 # GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lenodewere&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenodewere&layout=compact&hide_border=true&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenodewere&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
