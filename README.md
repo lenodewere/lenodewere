@@ -1,4 +1,3 @@
-
 # Were Lenox
 
 <p align="center">
@@ -49,7 +48,7 @@ Full-Stack Development
         |
         v
 Real-World Applications
-````
+```
 
 My goal is to become a developer capable of taking an idea from concept to a complete working product.
 
@@ -60,7 +59,7 @@ My goal is to become a developer capable of taking an idea from concept to a com
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js">
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Technologies">
 </p>
 
 * HTML5
@@ -68,38 +67,38 @@ My goal is to become a developer capable of taking an idea from concept to a com
 * JavaScript
 * Responsive Web Design
 * UI Design
-* Mobile-first development
+* Mobile-first Development
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php">
+  <img src="https://skillicons.dev/icons?i=php" alt="Backend Technologies">
 </p>
 
 * PHP
-* Form handling
+* Form Handling
 * Authentication
 * Sessions
-* CRUD systems
-* Backend logic
+* CRUD Systems
+* Backend Logic
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Database Technologies">
 </p>
 
 * MySQL
 * SQL
-* Database design
-* Tables and relationships
-* Data management
-* CRUD operations
+* Database Design
+* Tables and Relationships
+* Data Management
+* CRUD Operations
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development Tools">
 </p>
 
 * Git
@@ -139,11 +138,11 @@ Through Lenox's Creations, I write poetry, scripts, and creative pieces focused 
 
 My personal creative and professional brand combining:
 
-* Web development
-* Graphic design
-* Social media management
+* Web Development
+* Graphic Design
+* Social Media Management
 * Poetry
-* Creative writing
+* Creative Writing
 
 ### Personal Portfolio
 
@@ -152,8 +151,8 @@ A responsive portfolio website showcasing my:
 * Skills
 * Services
 * Projects
-* Creative work
-* Contact information
+* Creative Work
+* Contact Information
 
 Built with:
 
@@ -182,16 +181,16 @@ Built with:
 
 I'm currently studying ICT and developing practical knowledge in:
 
-* Software installation
-* System analysis and design
-* Database systems
+* Software Installation
+* System Analysis and Design
+* Database Systems
 * Data Flow Diagrams
 * Entity Relationship Diagrams
 * Management Information Systems
 * Operating Systems
-* Web development
+* Web Development
 * Programming
-* Computer systems
+* Computer Systems
 
 ---
 
@@ -264,8 +263,8 @@ Through Lenox's Creations, I explore:
 * Loneliness
 * Growth
 * Healing
-* Human emotions
-* Things left unsaid
+* Human Emotions
+* Things Left Unsaid
 
 > Some emotions are too heavy for conversation, so I turn them into words.
 
@@ -273,25 +272,33 @@ Through Lenox's Creations, I explore:
 
 ## GitHub Statistics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lenodewere&show_icons=true&theme=default&hide_border=true&count_private=true" height="180"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenodewere&layout=compact&theme=default&hide_border=true" height="180"> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lenodewere&show_icons=true&theme=default&hide_border=true&count_private=true" height="180" alt="GitHub Statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenodewere&layout=compact&theme=default&hide_border=true" height="180" alt="Top Languages">
+</p>
+
+---
 
 ## Contribution Streak
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=lenodewere&theme=default&hide_border=true" alt="GitHub Streak"> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lenodewere&theme=default&hide_border=true" alt="GitHub Contribution Streak">
+</p>
+
+---
 
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lenodewere&theme=minimal&hide_border=true" alt="GitHub Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lenodewere&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph">
 </p>
 
-##Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/lenodewere/lenodewere/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"> </p>
+---
 
-## GitHub Activity
+## Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lenodewere&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
+  <img src="https://raw.githubusercontent.com/lenodewere/lenodewere/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
 ---
@@ -300,16 +307,16 @@ Through Lenox's Creations, I explore:
 
 <p align="center">
   <a href="https://github.com/lenodewere">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-0D6EFD?style=for-the-badge&logo=google-chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-0D6EFD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="YOUR_INSTAGRAM_URL">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="YOUR_TIKTOK_URL">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
 </p>
 
@@ -323,9 +330,9 @@ Designer
 Poet
 ICT Student
 Kenyan
-Always learning
-Always building
-Always experimenting
+Always Learning
+Always Building
+Always Experimenting
 ```
 
 ---
@@ -376,4 +383,3 @@ If you find something useful here, explore it, learn from it, and build somethin
 <p align="center">
   © 2026 Lenox's Creations
 </p>
-
