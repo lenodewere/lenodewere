@@ -62,12 +62,7 @@ My goal is to become a developer capable of taking an idea from concept to a com
   <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Technologies">
 </p>
 
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Web Design
-* UI Design
-* Mobile-first Development
+`* HTML5` `* CSS3 ` `* JavaScript` `* Responsive Web Design` `* UI Design` `* Mobile-first Development`
 
 ### Backend
 
