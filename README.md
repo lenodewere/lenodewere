@@ -211,48 +211,6 @@ Web Deployment
 Software Development
 ```
 
----
-
-## 2026 Goals
-
-* Build more real-world projects
-* Improve JavaScript skills
-* Strengthen PHP knowledge
-* Master MySQL
-* Build full-stack applications
-* Learn modern frameworks
-* Improve UI/UX skills
-* Deploy more projects
-* Contribute to open-source projects
-* Build a strong developer portfolio
-* Turn more ideas into working products
-
----
-
-## Development Philosophy
-
-I believe the best way to learn development is to build.
-
-Tutorials are useful.
-
-Documentation is essential.
-
-Courses help.
-
-But eventually, you have to open the editor and start building.
-
-Break things.
-
-Fix them.
-
-Learn why they broke.
-
-Build again.
-
-That's where the real learning happens.
-
----
-
 ## Beyond Code
 
 Technology isn't the only thing I create.
@@ -274,69 +232,10 @@ Through Lenox's Creations, I explore:
 
 ---
 
-## What I'm Building
-
-I'm focused on turning ideas into practical digital products.
-
-```text
-        IDEAS
-          |
-          v
-   +--------------+
-   |   RESEARCH   |
-   +--------------+
-          |
-          v
-   +--------------+
-   |    DESIGN    |
-   +--------------+
-          |
-          v
-   +--------------+
-   | DEVELOPMENT  |
-   +--------------+
-          |
-          v
-   +--------------+
-   |    TESTING   |
-   +--------------+
-          |
-          v
-   +--------------+
-   |   DEPLOYMENT |
-   +--------------+
-          |
-          v
-        IMPACT
-```
-
-The goal is simple:
-
-**Build things that are useful, meaningful, and actually work.**
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lenodewere&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github" height="180" alt="GitHub Statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenodewere&layout=compact&theme=default&hide_border=true&langs_count=8" height="180" alt="Top Languages">
-</p>
-
----
-
 ## Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lenodewere&theme=default&hide_border=true" alt="GitHub Contribution Streak">
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lenodewere&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph">
 </p>
 
 ---
@@ -346,91 +245,6 @@ The goal is simple:
 <p align="center">
   <img src="https://raw.githubusercontent.com/lenodewere/lenodewere/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
-
-## GitHub Journey
-
-This profile represents more than repositories.
-
-It represents the process of learning, experimenting, failing, fixing, and building.
-
-Every project adds something new.
-
-Every bug teaches something.
-
-Every commit is another step forward.
-
-```text
-Learn
-  |
-  v
-Build
-  |
-  v
-Break
-  |
-  v
-Fix
-  |
-  v
-Improve
-  |
-  v
-Repeat
-```
-
----
-
-## The Lenox Stack
-
-```text
-             IDEAS
-               |
-               v
-          CREATIVITY
-               |
-               v
-              CODE
-               |
-               v
-             DESIGN
-               |
-               v
-            PRODUCT
-               |
-               v
-             IMPACT
-```
-
----
-
-## Fun Facts
-
-```text
-Developer
-Designer
-Poet
-ICT Student
-Kenyan
-Always Learning
-Always Building
-Always Experimenting
-```
-
----
-
-## Final Words
-
-I started with curiosity.
-
-I'm building with purpose.
-
-And I'm still learning every day.
-
-This GitHub is a record of that journey.
-
-If you find something useful here, explore it, learn from it, and build something of your own.
-
-> Keep building. Keep learning. Keep creating.
 
 ---
 
