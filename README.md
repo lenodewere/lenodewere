@@ -109,23 +109,23 @@ My goal is to become a developer capable of taking an idea from concept to a com
 
 ## What I Do
 
-### Web Development
+`### Web Development`
 
 I build responsive websites with a focus on clean design, usability, performance, and accessibility.
 
-### Backend Development
+`### Backend Development`
 
 I develop backend systems using PHP and MySQL, including forms, authentication, sessions, CRUD operations, and database-driven applications.
 
-### Graphic Design
+`### Graphic Design`
 
 I create digital designs and visual content for personal brands, businesses, and social media.
 
-### Social Media
+`### Social Media`
 
 I work with digital content, branding, social media management, and online presence.
 
-### Creative Writing
+`### Creative Writing`
 
 Through Lenox's Creations, I write poetry, scripts, and creative pieces focused on emotions, experiences, relationships, and life.
 
